@@ -43,7 +43,7 @@ h1 {
 
 }
 #map{
-	height: 150px;
+	height: 250px;
 	width: 300px;
 }
 h2 {
@@ -93,6 +93,10 @@ h3 {
 	text-align: center;
 	text-decoration: none;
 	background: url(images/templatemo_button_01.png) no-repeat;
+}
+.button{
+	position: relative;
+	bottom: -8px;
 }
 
 .button a:hover {
